@@ -1,0 +1,8 @@
+C:\Repos\FractalNet\FractalNet\bin\Release\FractalNet.exe.config
+C:\Repos\FractalNet\FractalNet\bin\Release\FractalNet.exe
+C:\Repos\FractalNet\FractalNet\bin\Release\FractalNet.pdb
+C:\Repos\FractalNet\FractalNet\obj\Release\FractalNet.Form1.resources
+C:\Repos\FractalNet\FractalNet\obj\Release\FractalNet.Properties.Resources.resources
+C:\Repos\FractalNet\FractalNet\obj\Release\FractalNet.csproj.GenerateResource.cache
+C:\Repos\FractalNet\FractalNet\obj\Release\FractalNet.exe
+C:\Repos\FractalNet\FractalNet\obj\Release\FractalNet.pdb
